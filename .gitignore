@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+training_checkpoints
+cifar-10-batches-py
+
+*.npz
+*.png
+*.gif
+*.jpg
+*.gz
+*.zip
+*.rar
