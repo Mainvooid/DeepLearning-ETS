@@ -14,3 +14,4 @@ Deep learning easy to start.(TF1,TF2,Pytorch,Keras)(Interactive presentation onl
    - [http://localhost:8888](http://localhost:8888)
 - Online
    - [mybinder.org](https://mybinder.org/v2/gh/Mainvooid/DeepLearning-ETS/master)
+   - [notebooks.azure.com](https://notebooks.azure.com/)
