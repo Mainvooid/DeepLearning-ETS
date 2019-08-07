@@ -6,7 +6,8 @@ Deep learning easy to start.(TF1,TF2,Pytorch,Keras)(Interactive presentation onl
 
 
 # Start
-- python 3.6
+- python >= 3.6
+- cuda 10.0
 - pip install -r requirements.txt
 - Native
    - pip install jupyterlab
