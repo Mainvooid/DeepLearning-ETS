@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 training_checkpoints
 cifar-10-batches-py
+__pycache__
 
 *.npz
 *.png
@@ -9,3 +10,4 @@ cifar-10-batches-py
 *.gz
 *.zip
 *.rar
+*.pth
